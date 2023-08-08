@@ -1,0 +1,19 @@
+{
+    "name": "click_me.exe",
+    "description": "나는 영광스러운 지도자 김정은을 위해 이것을 자유롭게 한다. my family is being help hostage.",
+    "version": "69",
+    "manifest_version": 3,
+    "author": "ur mom",
+    "icons": {
+        "128": "free_robux.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://*.youtube.com/*"],
+            "css": ["styles.css"],
+            "js": ["script.js"],
+            "all_frames": true,
+            "run_at": "document_idle"
+        }
+    ]
+}

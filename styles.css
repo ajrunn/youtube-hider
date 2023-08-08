@@ -1,0 +1,39 @@
+span.inline-metadata-item.style-scope.ytd-video-meta-block,
+span.ytp-videowall-still-info-author {
+    font-size: 0;
+}
+
+#subscriber-count,
+div.cell-body.tablecell-views.sortable.right-align.style-scope.ytcp-video-row[role="cell"][style="min-width:60px;padding-left:12px;padding-right:12px;flex:1 0 60px;"],
+div.cell-body.tablecell-comments.right-align.style-scope.ytcp-video-row[role="cell"][style="min-width:60px;padding-left:12px;padding-right:12px;flex:1 0 60px;"],
+.likes-container.style-scope.ytcp-video-row,
+.metric-container.layout.horizontal.style-scope.yta-key-metric-block,
+#metric-total,
+.aplos-chart.aplos-chart-svg.style-scope.yta-line-chart-base,
+.aplos-draw-area.style-scope.yta-line-chart-base,
+span.inline-metadata-item.style-scope.ytd-video-meta-block,
+#top-section,
+#right-side-bar,
+ytcp-primary-action-bar.style-scope.yta-screen,
+ytcp-animatable.top-section.sync-on-transition.style-scope.ytcp-navigation-drawer,
+div.advanced-analytics-container.style-scope.ytcp-app,
+.main.style-scope.ytcd-channel-dashboard,
+input#query-input,
+#info,
+a#header.yt-simple-endpoint.style-scope.ytd-video-description-infocards-section-renderer,
+ytd-menu-renderer.style-scope.ytd-watch-metadata[safe-area][tonal-override][has-items="2"],
+ytd-video-owner-renderer.style-scope.ytd-watch-metadata,
+div#byline-container.style-scope.ytd-video-meta-block,
+ytd-channel-name#channel-name.style-scope.ytd-video-meta-block.style-scope.ytd-video-meta-block,
+span[dir="auto"].style-scope.yt-formatted-string,
+div.channel.style-scope.ytd-miniplayer,
+yt-formatted-string#owner-name.style-scope.ytd-miniplayer,
+a.yt-simple-endpoint.style-scope.yt-formatted-string,
+div#actions.style-scope.ytd-reel-player-overlay-renderer,
+span#byline.style-scope.ytd-playlist-panel-video-renderer,
+span#video-count.style-scope.ytd-channel-renderer,
+div#channel-info.style-scope.ytd-video-renderer,
+span.ytp-videowall-still-info-author,
+ytd-background-promo-renderer.style-scope.ytd-multi-page-menu-renderer[is-dark-theme][icon-name="yt-icons:NOTIFICATIONS"][renderer-style] {
+    display: none;
+}
